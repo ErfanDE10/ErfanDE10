@@ -22,6 +22,5 @@ HI ,I'm Erfan<br>I'm a computer engineering student and I looking for new experi
 ![](https://github-contributor-stats.vercel.app/api?username=ErfanDE10&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ErfanDE10&icon=0&color=6)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=ErfanDE10&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
