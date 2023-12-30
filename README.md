@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI , I am Erfan<br>I am a computer engineering student, I am looking for new experiences in the field of artificial intelligence, and I am also very interested in neuroscience<br>✉️  You can contact me at mohammadspace39@gmail.com<br>🔭 I’m currently working on FBC project<br>👯 I’m looking to collaborate on ML project & Neuroscience research<br>🌱 I’m currently learning Project management & Machine learning<br>⚡ Fun fact  "  Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+HI ,I'm Erfan<br>I'm a computer engineering student, I'm looking for new experiences in the field of artificial intelligence, and I am also very interested in neuroscience<br>✉️  You can contact me at mohammadspace39@gmail.com<br>🔭 I’m currently working on FBC project<br>👯 I’m looking to collaborate on ML project & Neuroscience research<br>🌱 I’m currently learning Project management & Machine learning<br>⚡ Fun fact  "  Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
 
 
 ## 🌐 Socials:
